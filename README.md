@@ -1,16 +1,63 @@
-## Hi there 👋
+# 🎒 Olá! Eu sou o Guilherme Pimentel
 
-<!--
-**Gui-dev11/gui-dev11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudo no **IFRO – Campus Ji-Paraná**, onde curso **Técnico em Informática integrado ao Ensino Médio**.  
+Tenho bastante interesse na área de tecnologia e estou construindo minha base em programação aos poucos — explorando linguagens, ferramentas e criando pequenos projetos para praticar.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que eu estudo hoje
+
+- **C#** (incluindo jogos simples em Unity)  
+- **HTML, CSS e JavaScript**  
+- **Python**  
+- **Banco de Dados (MySQL)**  
+- **Firebase** (já usei em projetos pequenos)  
+- Noções básicas de **Smali** (aprendi por curiosidade, engenharia reversa)  
+
+## 🧰 Ferramentas que utilizo
+
+<p>
+  <img alt="VS Code" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img alt="Visual Studio" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+  <img alt="Rider" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg"/>
+  <img alt="HeidiSQL" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="Git" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="Unity" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+</p>
+---
+
+## 📌 Meus links
+
+- 🎥 **YouTube**: https://www.youtube.com/@JabuticabaDev  
+- 📸 **Instagram**: https://www.instagram.com/guii.p0/  
+- 🖥️ **GitHub**: (este aqui mesmo)
+
+---
+
+## 🧰 Tecnologias que já tenho contato
+
+<p>
+  <img alt="C#" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img alt="Unity" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+  <img alt="HTML" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="Python" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="MySQL" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="Firebase" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+  <img alt="Git" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</p>
+
+---
+
+## 🎯 Sobre mim
+
+Sou alguém que aprende na prática: errando, arrumando e tentando de novo.  
+Cada projeto que faço, por menor que seja, me ajuda a melhorar e entender mais sobre o que quero para o futuro.
+
+Gosto de estudar programação por conta própria, fazer experimentos e compartilhar o que aprendo com outras pessoas.
+
+---
+
+Se você chegou até aqui, valeu! Sempre aberto para aprender algo novo 😄
+
