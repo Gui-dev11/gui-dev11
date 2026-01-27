@@ -9,10 +9,12 @@ Tenho bastante interesse na área de tecnologia e estou construindo minha base e
 
 - **C#** (incluindo jogos simples em Unity)  
 - **HTML, CSS e JavaScript**  
-- **Python**  
+- **PHP** (back-end e integração com banco de dados)  
+- **Bootstrap** (criação de layouts responsivos)  
 - **Banco de Dados (MySQL)**  
-- **Firebase** (já usei em projetos pequenos)  
-- Noções básicas de **Smali** (aprendi por curiosidade, engenharia reversa)  
+- Noções básicas de **Smali** (aprendi por curiosidade e engenharia reversa)
+
+---
 
 ## 🧰 Ferramentas que utilizo
 
@@ -24,13 +26,13 @@ Tenho bastante interesse na área de tecnologia e estou construindo minha base e
   <img alt="Git" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img alt="Unity" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 </p>
+
 ---
 
 ## 📌 Meus links
 
 - 🎥 **YouTube**: https://www.youtube.com/@JabuticabaDev  
 - 📸 **Instagram**: https://www.instagram.com/guii.p0/  
-- 🖥️ **GitHub**: (este aqui mesmo)
 
 ---
 
@@ -42,9 +44,9 @@ Tenho bastante interesse na área de tecnologia e estou construindo minha base e
   <img alt="HTML" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="JavaScript" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="Python" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="PHP" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img alt="Bootstrap" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img alt="MySQL" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="Firebase" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   <img alt="Git" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
@@ -52,12 +54,11 @@ Tenho bastante interesse na área de tecnologia e estou construindo minha base e
 
 ## 🎯 Sobre mim
 
-Sou alguém que aprende na prática: errando, arrumando e tentando de novo.  
-Cada projeto que faço, por menor que seja, me ajuda a melhorar e entender mais sobre o que quero para o futuro.
+Sou alguém que aprende na prática: errando, corrigindo e tentando de novo.  
+Cada projeto que faço, por menor que seja, me ajuda a evoluir e entender melhor a área que quero seguir.
 
-Gosto de estudar programação por conta própria, fazer experimentos e compartilhar o que aprendo com outras pessoas.
+Gosto de estudar programação por conta própria, criar projetos, experimentar ideias e compartilhar o que aprendo com outras pessoas.
 
 ---
 
 Se você chegou até aqui, valeu! Sempre aberto para aprender algo novo 😄
-
