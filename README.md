@@ -31,7 +31,7 @@ Tenho bastante interesse na área de tecnologia e estou construindo minha base e
 
 ## 📌 Meus links
 
-- 🎥 **YouTube**: https://www.youtube.com/@JabuticabaDev  
+- 🎥 **YouTube**: https://www.youtube.com/@pr-gui
 - 📸 **Instagram**: https://www.instagram.com/guii.p0/  
 
 ---
