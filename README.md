@@ -4,9 +4,6 @@
 <h3 align="center">Estudante de Informática | Foco em Back-End</h3>
 
 <p align="center">
-  <a href="[www.linkedin.com/in/guilherme-pimentel-80a7b73b0](https://www.linkedin.com/in/guilherme-pimentel-80a7b73b0/)">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://github.com/gui-dev11" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
