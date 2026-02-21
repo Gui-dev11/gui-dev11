@@ -43,7 +43,7 @@ Olá! Sou o Guilherme, estudante do curso técnico em Informática no IFRO.
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -62,7 +62,6 @@ Olá! Sou o Guilherme, estudante do curso técnico em Informática no IFRO.
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gui-dev11&theme=github_dark"/>
-  <img height="165em" src="https://streak-stats.demolab.com?user=gui-dev11&theme=dark&hide_border=true"/>
 </div>
 
 ---
