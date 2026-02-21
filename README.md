@@ -4,7 +4,7 @@
 <h3 align="center">Estudante de Informática | Foco em Back-End</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/guilherme-pimentel-80a7b73b0" target="_blank">
+  <a href="[www.linkedin.com/in/guilherme-pimentel-80a7b73b0](https://www.linkedin.com/in/guilherme-pimentel-80a7b73b0/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/gui-dev11" target="_blank">
@@ -42,7 +42,6 @@ Olá! Sou o Guilherme, estudante do curso técnico em Informática no IFRO.
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </p>
