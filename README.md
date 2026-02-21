@@ -1,64 +1,81 @@
-# 🎒 Olá! Eu sou o Guilherme Pimentel
+<img src="githubanner.png"/>
 
-Estudo no **IFRO – Campus Ji-Paraná**, onde curso **Técnico em Informática integrado ao Ensino Médio**.  
-Tenho bastante interesse na área de tecnologia e estou construindo minha base em programação aos poucos — explorando linguagens, ferramentas e criando pequenos projetos para praticar.
+<h1 align="center"> Guilherme Pimentel da Rocha</h1>
+<h3 align="center">Estudante de Informática | Foco em Back-End</h3>
 
----
-
-## 🚀 O que eu estudo hoje
-
-- **C#** (incluindo jogos simples em Unity)  
-- **HTML, CSS e JavaScript**  
-- **PHP** (back-end e integração com banco de dados)  
-- **Bootstrap** (criação de layouts responsivos)  
-- **Banco de Dados (MySQL)**  
-- Noções básicas de **Smali** (aprendi por curiosidade e engenharia reversa)
-
----
-
-## 🧰 Ferramentas que utilizo
-
-<p>
-  <img alt="VS Code" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img alt="Visual Studio" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-  <img alt="Rider" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg"/>
-  <img alt="HeidiSQL" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="Git" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="Unity" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+<p align="center">
+  <a href="www.linkedin.com/in/guilherme-pimentel-80a7b73b0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/gui-dev11" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.chess.com/member/Guipx0000" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📌 Meus links
+## 🧠 Sobre mim
 
-- 🎥 **YouTube**: https://www.youtube.com/@pr-gui
-- 📸 **Instagram**: https://www.instagram.com/guii.p0/  
+Olá! Sou o Guilherme, estudante do curso técnico em Informática no IFRO.
+
+💻 Atualmente estudando e praticando:
+- C#
+- Programação Orientada a Objetos
+- Modelagem de Banco de Dados
+- PHP
+- HTML e CSS
+- Lógica de Programação
+
+🎯 Buscando evoluir como desenvolvedor Back-End.  
+♟️ chess player — estratégia no tabuleiro e no código.
 
 ---
 
-## 🧰 Tecnologias que já tenho contato
+## 🛠️ Tecnologias
 
-<p>
-  <img alt="C#" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img alt="Unity" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
-  <img alt="HTML" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="PHP" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img alt="Bootstrap" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img alt="MySQL" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="Git" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🎯 Sobre mim
+## 📌 Projetos
 
-Sou alguém que aprende na prática: errando, corrigindo e tentando de novo.  
-Cada projeto que faço, por menor que seja, me ajuda a evoluir e entender melhor a área que quero seguir.
-
-Gosto de estudar programação por conta própria, criar projetos, experimentar ideias e compartilhar o que aprendo com outras pessoas.
+🚗 Sistema de Aluguel de Carros (C# – POO)  
+🔐 Sistema de Login com Recuperação de Senha (PHP + MySQL)  
+🌐 Página Web Responsiva com Galeria Animada  
+🗄️ Projetos de Modelagem de Banco de Dados  
 
 ---
 
-Se você chegou até aqui, valeu! Sempre aberto para aprender algo novo 😄
+## 📊 Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gui-dev11&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=gui-dev11&theme=dark&background=000000&hide_border=true)
+
+</div>
+
+---
+
+## ♟️ Xadrez & Lógica
+
+O xadrez fortalece minha capacidade de análise, planejamento e tomada de decisão — habilidades que aplico diretamente no desenvolvimento de sistemas.
+
+---
+
+<p align="center">
+  <em>"Código limpo. Lógica clara. Evolução constante."</em>
+</p>
