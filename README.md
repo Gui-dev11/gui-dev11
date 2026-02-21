@@ -61,11 +61,8 @@ Olá! Sou o Guilherme, estudante do curso técnico em Informática no IFRO.
 ## 📊 Estatísticas
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gui-dev11&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=gui-dev11&theme=dark&background=000000&hide_border=true)
-
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gui-dev11&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="165em" src="https://streak-stats.demolab.com?user=gui-dev11&theme=dark&hide_border=true"/>
 </div>
 
 ---
